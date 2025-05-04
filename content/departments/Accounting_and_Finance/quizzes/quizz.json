@@ -1,0 +1,7 @@
+﻿[
+    {
+        "question": "Sample question?",
+        "options": ["Option A", "Option B", "Option C", "Option D"],
+        "answer": "Option A"
+    }
+]
